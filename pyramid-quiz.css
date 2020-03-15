@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Rubik', sans-serif;
+}
+
+
+.header {
+  color: black;
+  text-align: center;
+  font-size: 15pt;
+  font-weight: 300;
+}
+
+
+body {
+  background-image: url(pyramid-images/Cairo_pyramids_Dec_2008_-_59-bw-bg.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.startQuizContainer {
+  text-align: center;
+  width: 300px;
+  height: 100px;  
+  padding: 0px;
+  margin: 200px auto;
+  border: black 1px solid;
+  border-radius: 3px;
+}
+
+.startButton {
+  background-color: transparent;
+  color: black;
+  border: black 1px solid;
+  border-radius: 3px;
+  font-size: 14pt;
+  font-weight: 400;
+  margin: 35px auto;
+}
+
